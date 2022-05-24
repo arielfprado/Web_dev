@@ -6,7 +6,7 @@
 	- style: CSS structure
 	- office: image.jpg required for template
 
-- Javascript DIO Course: Little projects criated to improve Javascript knowledge
+- Javascript DIO Course: Small projects criated to improve Javascript knowledge
 	- Approved students: Object destructuring to perform grades ranking
 	- Calculator: Inputs receiving from end-user, strings manipulation
 	- Counter: Counter button to increase or decrease current value
