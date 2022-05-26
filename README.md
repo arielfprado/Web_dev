@@ -1,6 +1,12 @@
 # Web_dev
 #### Repository for web development projects and discussions
 
+ - Memory Game: Web game using HTML 5, CSS 3 & JavaScript to create a memory game with rock n roll theme
+ 	- index: HTML structure
+ 	- style: CSS style
+ 	- script: JavaScript code
+ 	- img folder: Folder with all .jpg images used in the game
+ 	
  - Portfolio template: Web template (PC & mobile) for professional and personal portfolio
  	- index: HTML structure
 	- style: CSS structure
