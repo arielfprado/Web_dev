@@ -4,4 +4,8 @@
  	- script: JavaScript code
  	- img folder: Folder with all .jpg images used in the game
 
-     ![MemoryGame](https://user-images.githubusercontent.com/95775417/170577095-0156c40f-fb98-4fc9-971c-7f5650a0f395.gif)
+     
+
+
+https://user-images.githubusercontent.com/95775417/170577621-7ced4c70-63a8-4d43-9cbd-73057b33fc10.mp4
+
