@@ -1,6 +1,13 @@
 # Web_dev
 #### Repository for web development projects and discussions
 
+ - Github API Interface: Front-end application created with reausable components using React.JS and the public Github API
+ 	- services: Github API request
+ 	- providers: Context and states creation and data placement from API
+ 	- hooks: Centralizes all the functions and information from the providers
+ 	- global: Sets the global style using styled-components
+ 	- components: All the components used in the application, like layout, header, profile and repositories
+
  - Memory Game: Web game using HTML 5, CSS 3 & JavaScript to create a memory game with rock n roll theme
  	- index: HTML structure
  	- style: CSS style
